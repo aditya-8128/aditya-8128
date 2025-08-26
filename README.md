@@ -1,6 +1,6 @@
 # Aditya Upadhyay
 
-Pre-final year **Electronics & Communication Engineering** student at **IIT Bhubaneswar**  
+Final year **Electronics & Communication Engineering** student at **IIT Bhubaneswar**  
 Full-Stack Developer | Quant Research Consultant | Tech Council General Secretary  
 
 ---
@@ -45,7 +45,7 @@ Python-based stock analytics platform for trend detection & visualization | NumP
 
 - **WorldQuant BRAIN:** Built 450+ alphas, Global Rank 60, Inter IIT Tech Meet Rank 7 Overall  
 - **Leadership:** General Secretary of Science & Tech Council, IIT Bhubaneswar (managing ₹30L+ budget & 3000+ students)  
-- **Hackathons & Competitions:** Inter IIT Tech Meet, Smart India Hackathon, Nihilanth (Inter IIT–IIM Quiz)  
+- **Hackathons & Competitions:** Inter IIT Tech Meet, Smart India Hackathon, Adobe Samrt India Hackathon Qualified 
 - **Academics:** Secured branch change to ECE with **CGPA 9.3**  
 
 ---
