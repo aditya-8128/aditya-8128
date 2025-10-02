@@ -1,7 +1,7 @@
 # Aditya Upadhyay
 
 Final year **Electronics & Communication Engineering** student at **IIT Bhubaneswar**  
-Full-Stack Developer | Quant Research Consultant | Tech Council General Secretary  
+Full-Stack Developer | Quant Research Consultant | Former General Secretary, Science and Technology Council  
 
 ---
 
